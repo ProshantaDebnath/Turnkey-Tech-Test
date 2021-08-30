@@ -15,7 +15,6 @@ class Form extends Component {
 			document: 'yes',
 			budget: 'less 1k USD',
 			projects: ''
-
 		}
 	}
 
@@ -66,7 +65,6 @@ class Form extends Component {
 			projects: event.target.value
 		})
 	}
-
 
 
 	handleSubmit = event => {

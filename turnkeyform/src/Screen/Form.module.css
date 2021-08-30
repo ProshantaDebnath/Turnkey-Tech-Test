@@ -12,3 +12,19 @@
 .textmargin{
     padding-top: 5% !important;
 }
+
+.button {
+    display: flex;
+    background-color: #02876A;
+    color: white;
+    font-weight: 500px;
+    margin-top: 3%;
+    border-radius: 3px;
+    width: 100%;
+    justify-content: center;
+}
+
+.textmargin{
+    padding-top: 5% !important;
+}
+
